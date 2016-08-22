@@ -1,0 +1,20 @@
+/* Escribe tu css aqui */
+
+.amarillo, .rojo{
+	height: 100px
+}
+
+.amarillo{
+	background: yellow;
+}
+
+.rojo{
+	background: red;
+}
+
+.box{
+	width: 200px;
+	margin: 10px;
+	padding: 10px;
+	display: inline;
+}
